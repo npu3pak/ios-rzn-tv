@@ -1,0 +1,1 @@
+../../../IPInsetLabel/Pod/Classes/IPInsetLabel.h
